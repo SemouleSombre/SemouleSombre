@@ -12,6 +12,7 @@
 	- 0 % : An Image to Text and Text to Image generator finetuned from a large database (more than 30 k images)
    	- 0 % : A text generator by RAG or finetuned about French Law
 	- 0 % : An AI agent that can have empathy (start from scratch)
+   	- 0 % : A simulator that will use simulation of sensor, then will be implemented in real robot
 	- 0 % : A video-game that use AI
 	- 0 % : Another video-game of detectives.
 
