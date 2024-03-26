@@ -8,6 +8,7 @@
 - My future projects :
 	- 2/12 : Do a Kaggle project every month in 2024
   	- 0 % : Create a NAS with a DataBase from all my private data and maybe a phone app with it
+  	- 0 % : A device multi Bluetooth
 	- 0 % : A robot that sorts cards and make a database from it - create a smartphone application from it - usefull with friends
 	- 0 % : An Image to Text and Text to Image generator finetuned from a large database (more than 30 k images)
    	- 0 % : A text generator by RAG or finetuned about French Law
