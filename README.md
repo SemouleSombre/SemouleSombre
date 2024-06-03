@@ -17,6 +17,7 @@
   	- A text generator by RAG or finetuned about French Law
   	- A simulator that will use simulation of sensors, then will be implemented in real robot
   	- An AI agent that can have empathy (start from scratch)
+  	- Learn how to Learn app
   	- **Other**
   	- Do a Kaggle project every month in 2024
   	- **Game**
