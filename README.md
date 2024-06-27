@@ -6,7 +6,7 @@
 - ⚡ Fun fact: My master's research paper is about Empathy in robotics and motricity simulation
 
 - My future projects :
-
+  	- ***Projects***
 		- **Tools**
    	- **Where-Is-My-GO** ? is a tool that will help you to find on your PC what is taking so much place on your PC.
   	- Create a NAS with a DataBase from all my private data and maybe a phone app with it
