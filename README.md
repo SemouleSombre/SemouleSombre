@@ -6,21 +6,22 @@
 - ⚡ Fun fact: My master's degrees is about Empathy in robotics and motricity simulation
 
 - My future projects :
-	- **Tools**
+		- **Tools**
+   	- **Where-Is-My-GO** ? is a tool that will help you to find on your PC what is taking so much place on your PC.
   	- Create a NAS with a DataBase from all my private data and maybe a phone app with it
   	- A device multi Bluetooth
   	- A robot that sorts cards and make a database from it - create a smartphone application from it - usefull with friends
   	- A tool that help to visualize the place on your PC
   	- A "State of the Art" Project
-  	- **IA**
+  		- **IA**
   	- An Image to Text and Text to Image generator finetuned from a large database (more than 30 k images)
   	- A text generator by RAG or finetuned about French Law
   	- A simulator that will use simulation of sensors, then will be implemented in real robot
   	- An AI agent that can have empathy (start from scratch)
   	- Learn how to Learn app
-  	- **Other**
+  		- **Other**
   	- Do a Kaggle project every month in 2024
-  	- **Game**
+  		- **Game**
   	- A video-game that use AI
   	- Another video-game of detectives.
 
