@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate with everyone that want to help me and everyone that I can help
 - 📫 How to reach me : Linkedin : www.linkedin.com/in/antoine-c-b627ab156/
-- ⚡ Fun fact: My master's degrees is about Empathy in robotics and motricity simulation
+- ⚡ Fun fact: My master's research paper is about Empathy in robotics and motricity simulation
 
 - My future projects :
 		- **Tools**
