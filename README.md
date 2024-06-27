@@ -14,6 +14,8 @@
   	- A tool that help to visualize the place on your PC
   	- A "State of the Art" Project
   		- **IA**
+  	- A RAG that will serve as a archive tool
+  	- A RAG about research
   	- An Image to Text and Text to Image generator finetuned from a large database (more than 30 k images)
   	- A text generator by RAG or finetuned about French Law
   	- A simulator that will use simulation of sensors, then will be implemented in real robot
