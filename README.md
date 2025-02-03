@@ -23,11 +23,10 @@
   	- An AI agent that can have empathy (start from scratch)
   	- Learn how to Learn app
   	- Tool that bring culture 
-  		- **Other**
-  	- Do a Kaggle project every month in 2024
   		- **Games**
   	- A video-game that use AI
   	- Another video-game of detectives.
+  	- A RPG game inspired by the best period of Bioware / Obsidian
 
 
 
