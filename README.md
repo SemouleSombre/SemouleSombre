@@ -14,7 +14,7 @@
   	- A robot that sorts cards and make a database from it - create a smartphone application from it - usefull with friends
   	- A tool that help to visualize the place on your PC
   	- A "State of the Art" Project
-  		- **IA**
+  		- **AG (Artificial Generation)**
   	- A RAG that will serve as a archive tool
   	- A RAG about research
   	- An Image to Text and Text to Image generator finetuned from a large database (more than 30 k images)
@@ -24,7 +24,7 @@
   	- Learn how to Learn app
   	- Tool that bring culture 
   		- **Games**
-  	- A video-game that use AI
+  	- A video-game that use Machine Learning
   	- Another video-game of detectives.
   	- A RPG game inspired by the best period of Bioware / Obsidian
 
