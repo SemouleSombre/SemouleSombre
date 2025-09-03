@@ -13,10 +13,10 @@
   	- A device multi Bluetooth
   	- A robot that sorts cards and make a database from it - create a smartphone application from it - usefull with friends
   	- A tool that help to visualize the place on your PC
-  	- A "State of the Art" Project
+  	- A website that will help creators and artists to work together. 
   		- **AG (Artificial Generation)**
   	- A RAG that will serve as a archive tool
-  	- A RAG about research
+  	- A RAG about research /	A "State of the Art" Project
   	- An Image to Text and Text to Image generator finetuned from a large database (more than 30 k images)
   	- A text generator by RAG or finetuned about French Law
   	- A simulator that will use simulation of sensors, then will be implemented in real robot
